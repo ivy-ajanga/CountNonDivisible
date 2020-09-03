@@ -1,0 +1,13 @@
+C:\Users\Administration\source\repos\CountNonDivisible\CountNonDivisible\bin\Debug\netcoreapp3.1\CountNonDivisible.exe
+C:\Users\Administration\source\repos\CountNonDivisible\CountNonDivisible\bin\Debug\netcoreapp3.1\CountNonDivisible.deps.json
+C:\Users\Administration\source\repos\CountNonDivisible\CountNonDivisible\bin\Debug\netcoreapp3.1\CountNonDivisible.runtimeconfig.json
+C:\Users\Administration\source\repos\CountNonDivisible\CountNonDivisible\bin\Debug\netcoreapp3.1\CountNonDivisible.runtimeconfig.dev.json
+C:\Users\Administration\source\repos\CountNonDivisible\CountNonDivisible\bin\Debug\netcoreapp3.1\CountNonDivisible.dll
+C:\Users\Administration\source\repos\CountNonDivisible\CountNonDivisible\bin\Debug\netcoreapp3.1\CountNonDivisible.pdb
+C:\Users\Administration\source\repos\CountNonDivisible\CountNonDivisible\obj\Debug\netcoreapp3.1\CountNonDivisible.csprojAssemblyReference.cache
+C:\Users\Administration\source\repos\CountNonDivisible\CountNonDivisible\obj\Debug\netcoreapp3.1\CountNonDivisible.AssemblyInfoInputs.cache
+C:\Users\Administration\source\repos\CountNonDivisible\CountNonDivisible\obj\Debug\netcoreapp3.1\CountNonDivisible.AssemblyInfo.cs
+C:\Users\Administration\source\repos\CountNonDivisible\CountNonDivisible\obj\Debug\netcoreapp3.1\CountNonDivisible.csproj.CoreCompileInputs.cache
+C:\Users\Administration\source\repos\CountNonDivisible\CountNonDivisible\obj\Debug\netcoreapp3.1\CountNonDivisible.dll
+C:\Users\Administration\source\repos\CountNonDivisible\CountNonDivisible\obj\Debug\netcoreapp3.1\CountNonDivisible.pdb
+C:\Users\Administration\source\repos\CountNonDivisible\CountNonDivisible\obj\Debug\netcoreapp3.1\CountNonDivisible.genruntimeconfig.cache
